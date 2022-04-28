@@ -1,48 +1,32 @@
 h1{
     text-align: center;
 }
-p1{
+#text-red{
     color: red;
 }
-p2{
+#text-blue{
     color: blue;
 }
-p3{
+#text-green{
     color: green;
 }
-*{
-    color:black;
-}
-p4{
+#text-big{
     font-size: 300%;
 }
-p5{
-    font-size: 25%;
+#text-tiny{
+    font-size: 50%;
 }
-*{
-    font-size:large;
-}
-p6{
+#text-center{
     display: block;
     text-align: center;
 }
-*{
-    display:block;
-    text-align: left;
-}
-p7{
+#text-bold{
     font-weight: bold;
 }
-*{
-    font-weight: 100;
-}
-p8{
+#text-style{
     font-family: cursive;
 }
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
-p9{
+#text-combine{
     font-size: 200%;
     color:orange;
     font-weight: bold;
